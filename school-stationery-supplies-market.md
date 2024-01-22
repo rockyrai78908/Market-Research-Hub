@@ -86,10 +86,5 @@ IMARCs information products include major market, scientific, economic and techn
 
 Our offerings include comprehensive market intelligence in the form of research reports, production cost reports, feasibility studies, and consulting services. Our team, which includes experienced researchers and analysts from various industries, is dedicated to providing high-quality data and insights to our clientele, ranging from small and medium businesses to Fortune 1000 corporations.
 
-<strong><b>Contact Us:</b></strong>
-
-IMARC Group
-134 N 4th St. Brooklyn, NY 11249, USA
-Email: sales@imarcgroup.com
-Tel No:(D) +91 120 433 0800
-United States: +1-631-791-1145 | United Kingdom: +44-753-713-2163
+<p><strong>Contact Us:</strong></p>
+<p>IMARC Group<br />134 N 4th St. Brooklyn, NY 11249, USA<br />Email: sales@imarcgroup.com<br />Tel No:(D) +91 120 433 0800<br />United States: +1-631-791-1145 | United Kingdom: +44-753-713-2163</p>
