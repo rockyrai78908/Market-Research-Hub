@@ -34,7 +34,6 @@ Students and educators are widely utilizing notebooks, pens, and other supplies 
  	<li>Ryman Ltd</li>
  	<li>WH Smith High Street Limited</li>
 </ul>
-<strong>Explore full report with table of contents: </strong><a href="https://www.imarcgroup.com/school-stationery-supplies-market">https://www.imarcgroup.com/school-stationery-supplies-market</a>
 
 <strong><b>School Stationery Supplies Market Report Segmentation:</b></strong>
 
